@@ -14,3 +14,7 @@ personal rank : 201/7011
 ## CodinGame Spring Challenge 2021
 
 personal rank : 439/6867
+
+## CodinGame Spring Challenge 2022
+
+personal rank : 185/7695
